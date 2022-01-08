@@ -1,0 +1,12 @@
+{
+    "spells": {
+        "3": 3,
+        "4": 4,
+        "5": 1 
+    },
+    "existing": 10,
+    "reserve_spells": {
+        "3": 2
+    },
+    "subclass": true
+}
